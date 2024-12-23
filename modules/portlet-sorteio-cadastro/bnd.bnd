@@ -1,0 +1,7 @@
+Bundle-Name: portlet-sorteio-cadastro
+Bundle-SymbolicName: portlet.sorteio.cadastro
+Bundle-Version: 1.0.0
+Export-Package: portlet.sorteio.cadastro.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
